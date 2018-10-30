@@ -3,4 +3,20 @@
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
   </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/EurekaClientOrder/pom.xml" />
+        <option value="$PROJECT_DIR$/EurekaMember/pom.xml" />
+        <option value="$PROJECT_DIR$/EurekaService/pom.xml" />
+        <option value="$PROJECT_DIR$/server-member/pom.xml" />
+        <option value="$PROJECT_DIR$/demozuul/pom.xml" />
+        <option value="$PROJECT_DIR$/EurekaMember2/pom.xml" />
+        <option value="$PROJECT_DIR$/springbootdemo/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_9" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/ApplicationDemo" />
+  </component>
 </project>

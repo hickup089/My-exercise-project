@@ -1,0 +1,19 @@
+<h2>And now... Some Services</h2>
+<ul>
+<li>AdminService <a href="http://localhost:8080/services/AdminService?wsdl"><i>(wsdl)</i></a></li>
+<ul>
+<li>AdminService
+</ul>
+<li>Version <a href="http://localhost:8080/services/Version?wsdl"><i>(wsdl)</i></a></li>
+<ul>
+<li>getVersion
+</ul>
+<li>SOAPMonitorService <a href="http://localhost:8080/services/SOAPMonitorService?wsdl"><i>(wsdl)</i></a></li>
+<ul>
+<li>publishMessage
+</ul>
+<li>HelloWorld <a href="http://localhost:8080/services/HelloWorld?wsdl"><i>(wsdl)</i></a></li>
+<ul>
+<li>sayHelloWorldFrom
+</ul>
+</ul>

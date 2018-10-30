@@ -2,10 +2,10 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>demo-eureka-client</artifactId>
+    <artifactId>demo-eureka-order</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>demo-eureka-client</name>
-    <description>eureka client example</description>
+    <name>demo-eureka-order</name>
+    <description>eureka order example</description>
     <packaging>jar</packaging>
 
     <parent>

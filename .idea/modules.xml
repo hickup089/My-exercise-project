@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ApplicationDemo/ApplicationDemo.iml" filepath="$PROJECT_DIR$/ApplicationDemo/ApplicationDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaService/EurekaServer.iml" filepath="$PROJECT_DIR$/EurekaService/EurekaServer.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/MySvn.iml" filepath="$PROJECT_DIR$/.idea/MySvn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaMember2/demo-eureka-Member2.iml" filepath="$PROJECT_DIR$/EurekaMember2/demo-eureka-Member2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaClientOrder/demo-eureka-client (1).iml" filepath="$PROJECT_DIR$/EurekaClientOrder/demo-eureka-client (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaMember/demo-eureka-client (2).iml" filepath="$PROJECT_DIR$/EurekaMember/demo-eureka-client (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/demozuul/demozuul.iml" filepath="$PROJECT_DIR$/demozuul/demozuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server-member/server-member.iml" filepath="$PROJECT_DIR$/server-member/server-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootdemo/springbootdemo.iml" filepath="$PROJECT_DIR$/springbootdemo/springbootdemo.iml" />
     </modules>
   </component>
 </project>
